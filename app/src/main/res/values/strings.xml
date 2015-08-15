@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="menu">
+        <item>Home</item>
+        <item>New</item>
+        <item>My Book</item>
+    </string-array>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
